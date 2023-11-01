@@ -1,11 +1,6 @@
 html{
-    color: #ff0000;
-    background-color: #000000;
+    color: #ee0000;
+    background-color: #000;
+    background-image: url("./cachorro-livro.webp");
 
-}
-main{
-    background-color: white;
-}
-.titulo-aula {
-    background-color: chartreuse;
 }
