@@ -1,7 +1,4 @@
-@font-face {
-    font-family: alexbrush;
-    src: url('AlexBrush-Regular.ttf');
-}
+
 main{
-    font-family: 'AlexBrush';
+    font-style: italic; 
 }
