@@ -1,6 +1,7 @@
-html{
-    color: #ee0000;
-    background-color: #000;
-    background-image: url("./cachorro-livro.webp");
-
+@font-face {
+    font-family: alexbrush;
+    src: url('AlexBrush-Regular.ttf');
+}
+main{
+    font-family: 'AlexBrush';
 }
